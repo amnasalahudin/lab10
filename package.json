@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^29.2.2"
+  },
+  "name": "lab10",
+  "version": "1.0.0",
+  "main": "task1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
